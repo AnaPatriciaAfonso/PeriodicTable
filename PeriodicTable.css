@@ -1,0 +1,156 @@
+﻿body {
+    min-width: 1400px;
+    font-family: 'Arial';
+}
+
+h1{
+    text-align:center;
+}
+
+.Table_TP, Tr_TP, td {
+    border: 1px solid black;
+    padding: 0;
+    
+}
+
+.Table_TP {
+    border: none;
+    margin: 40px auto auto auto;
+}
+
+td {
+    width: 70px;
+    height: 70px;
+    border-radius: 2px;
+
+}
+
+.HiddeCell{
+    visibility:hidden;
+}
+
+.Element {
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.Num {
+    vertical-align: bottom;
+    margin: 3px;
+    padding: 0px;
+    font-size: 15px;
+    line-height:50%;
+}
+
+.Family_NoMetals {
+    background-color: rgba(161, 211, 68,0.6);
+}
+
+.Family_NoMetals:hover {
+    background-color: rgb(161, 211, 68);
+}
+
+.Family_NobelGas {
+    background-color: rgba(241, 178, 0,0.6);
+}
+
+    .Family_NobelGas:hover {
+        background-color: rgb(241, 178, 0);
+    }
+
+.Family_TransitionMetals {
+    background-color: rgba(235, 142, 142,0.6);
+}
+
+    .Family_TransitionMetals:hover {
+        background-color: rgb(235, 142, 142);
+    }
+
+.Family_AlcaliMetals {
+    background-color: rgba(61, 158, 227,0.6);
+}
+
+    .Family_AlcaliMetals:hover {
+        background-color: rgb(61, 158, 227);
+    }
+
+.Family_AlkalineEarthMetals {
+    background-color: rgba(234, 218, 0,0.6);
+}
+
+    .Family_AlkalineEarthMetals:hover {
+        background-color: rgb(234, 218, 0);
+    }
+
+.Family_Halogens {
+    background-color: rgba(112, 203, 235,0.6);
+}
+
+    .Family_Halogens:hover {
+        background-color: rgb(112, 203, 235);
+    }
+
+.Family_Semimetals {
+    background-color: rgba(77, 182, 172,0.6);
+}
+
+    .Family_Semimetals:hover {
+        background-color: rgb(77, 182, 172);
+    }
+
+.Family_OtherMetals {
+    background-color: rgba(162, 199, 211,0.6);
+}
+
+    .Family_OtherMetals:hover {
+        background-color: rgb(162, 199, 211);
+    }
+
+.space{
+    height:20px;
+}
+
+.Family_Lanthanoid {
+    background-color: rgba(144, 227, 233,0.6);
+}
+
+    .Family_Lanthanoid:hover {
+        background-color: rgb(144, 227, 233);
+    }
+
+.Family_Actinoid {
+    background-color: rgba(220, 173, 214,0.6);
+}
+
+.Family_Actinoid:hover {
+    background-color: rgb(220, 173, 214);
+}
+
+.Table_legenda{
+    margin:40px auto auto auto;
+}
+
+.td_legenda {
+    width: 250px;
+    height: 30px;
+    border: none;
+    margin-bottom: auto;
+    margin-top: auto;
+
+
+}
+
+svg {
+    border: 1px solid black;
+    border-radius: 2px;
+}
+.td_svg {
+    width: 30px;
+    height: 30px;
+    border: none;
+}
+
+
